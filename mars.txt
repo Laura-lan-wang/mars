@@ -3,3 +3,4 @@ We are docked in Spacestation, waiting for slinshort to mars
 We are approaching Mars, ready to landing
 We have landed sucessfully on Mars, it is strangely orange
 The rover is going crazy 
+Rover is scrooping
